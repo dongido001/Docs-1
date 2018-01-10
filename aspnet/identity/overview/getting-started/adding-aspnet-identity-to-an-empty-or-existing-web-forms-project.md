@@ -28,7 +28,7 @@ by [Raquel Soares De Almeida](https://github.com/raquelsa)
 
 1. Start by installing and running [Visual Studio Express 2013 for Web](https://go.microsoft.com/fwlink/?LinkId=299058) or [Visual Studio 2013](https://go.microsoft.com/fwlink/?LinkId=306566).
 2. Click **New Project** from the Start page, or you can use the menu and select **File**, and then **New Project**.
-3. Select **Visual C# i** n the left pane, then **Web** and then select **ASP.NET Web Application**. Name your project "WebFormsIdentity" and then click **OK**.   
+3. Select **Visual C#** in the left pane, then **Web** and then select **ASP.NET Web Application**. Name your project "WebFormsIdentity" and then click **OK**.   
   
     ![](adding-aspnet-identity-to-an-empty-or-existing-web-forms-project/_static/image1.png)
 4. In the **New ASP.NET Project** dialog, select the **Empty** template.  
